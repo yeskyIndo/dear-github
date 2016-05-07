@@ -8,6 +8,7 @@ You're here to sign the letter, are you? Let's get started!<br>
 ```
 - @<github-username>
 ```
+
 3. Commit your changes, then click "New pull request" next to the branch bar.<br>
 4. Click New Pull Request after you've compared the changes, then submit it!<br>
 
