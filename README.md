@@ -9,3 +9,5 @@ Any other owner and member of their own organisation would have written the same
 
 Best regards,
 Imagical Corporation, ImagicalMine Team and a [whole lot of other ImagicalMine users and community](https://github.com/ImagicalCorp/dear-github/blob/master/users.md)
+
+**Wish to sign the letter, and prevent any other "admin rights abusers"? Read more [here](https://github.com/ImagicalCorp/dear-github/blob/master/CONTRIBUTING.md).**
